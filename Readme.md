@@ -1,8 +1,8 @@
 # ¡Hola! Soy Sandra Mingo 👋
 
 ## 📚Educación
-- Estudiante de Biología Sanitaria
-- Experiencia Erasmus en Alemania
+- Estudiante del grado en Biología Sanitaria (Universidad de Alcalá)
+- Erasmus en Tübingen (Eberhard Karls Universität Tübingen)
 
 ## 💻Habilidades Técnicas
 - **Lenguajes de Programación:** Python
@@ -13,14 +13,13 @@
 - Alemán: Nativo
 - Inglés: C1
 
-
 ## 📌Proyectos Destacados
 - 🌍**Erasmus en Tübingen, Alemania**
   Participé en un programa Erasmus en Alemania, ampliando mis horizontes académicos y culturales.
 
 - 📈**Proyectos de Ciencia de Datos**
   Desarrollé habilidades en Python y sus librerías para el análisis de datos. Me enfoqué en proyectos académicos relacionados con la biología y la salud.
-  Podeis Revisar mi aprendizaje en este Github, son pequeñas pruebas y ejercicios que he ido realizando.
+  Podéis revisar mi aprendizaje en este Github, son pequeñas pruebas y ejercicios que he ido realizando.
 
 ## 📝Aptitudes
 - **Lenguajes y Frameworks:** Python
