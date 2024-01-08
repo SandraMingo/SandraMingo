@@ -1,3 +1,40 @@
+
+# English Version
+
+# Hi! I'm Sandra Mingo 👋
+## 📚Education
+  - Student of the degree in Health Biology (University of Alcalá).
+  - Erasmus in Tübingen (Eberhard Karls Universität Tübingen)
+## 💻Technical Skills
+  - **Programming Languages:** Python
+  - **Data Analysis Libraries:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
+## ✅Languages
+  - Spanish: Native
+  - German: Native
+  - English: C1
+## 📌Project Highlights
+  - 🌍**Erasmus in Tübingen, Germany**
+    I participated in an Erasmus program in Germany, broadening my academic and cultural horizons.
+
+  - 📈**Data Science Projects**
+    I developed skills in Python and its libraries for data analysis. I focused on academic projects related to biology and health. You can review my learning in this Github, they are small tests and exercises that I have been doing.
+
+## 📝Skills
+  - **Languages and Frameworks:** Python
+  - **Data Science:** Data analysis, visualization, data manipulation.
+## 📧Contact.
+  - E-mail: sandra.mingo.ramirez1@gmail.com
+### At this time...
+  - 🔭Studying: Health Biology
+  - 🌱Learning: Data Science, Machine Learning
+
+Thank you for exploring my profile! I'm excited for future opportunities and the possibility of collaborating on interesting projects - feel free to contact me with any questions or collaborations! 😊
+
+
+
+
+# Versión en Español
+
 # ¡Hola! Soy Sandra Mingo 👋
 
 ## 📚Educación
@@ -6,7 +43,7 @@
 
 ## 💻Habilidades Técnicas
 - **Lenguajes de Programación:** Python
-- **Librerías para Análisis de Datos:** Pandas, NumPy, Matplotlib, Seaborn
+- **Librerías para Análisis de Datos:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
 
 ## ✅Idiomas
 - Español: Nativo
