@@ -6,7 +6,7 @@
   - Student of the degree in Health Biology (University of Alcalá).
   - Erasmus in Tübingen (Eberhard Karls Universität Tübingen)
 ## 💻Technical Skills
-  - **Programming Languages:** Python
+  - **Programming Languages:** Python, Bash, R
   - **Data Analysis Libraries:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
 ## ✅Languages
   - Spanish: Native
@@ -20,7 +20,7 @@
     I developed skills in Python and its libraries for data analysis. I focused on academic projects related to biology and health. You can review my learning in this Github, they are small tests and exercises that I have been doing.
 
 ## 📝Skills
-  - **Languages and Frameworks:** Python
+  - **Languages and Frameworks:** Python, Bash, R
   - **Data Science:** Data analysis, visualization, data manipulation.
 ## 📧Contact.
   - E-mail: sandra.mingo.ramirez1@gmail.com
@@ -42,7 +42,7 @@ Thank you for exploring my profile! I'm excited for future opportunities and the
 - Erasmus en Tübingen (Eberhard Karls Universität Tübingen)
 
 ## 💻Habilidades Técnicas
-- **Lenguajes de Programación:** Python
+- **Lenguajes de Programación:** Python, Bash, R
 - **Librerías para Análisis de Datos:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
 
 ## ✅Idiomas
@@ -59,7 +59,7 @@ Thank you for exploring my profile! I'm excited for future opportunities and the
   Podéis revisar mi aprendizaje en este Github, son pequeñas pruebas y ejercicios que he ido realizando.
 
 ## 📝Aptitudes
-- **Lenguajes y Frameworks:** Python
+- **Lenguajes y Frameworks:** Python, Bash, R
 - **Ciencia de Datos:** Análisis de datos, visualización, manipulación de datos
 
 ## 📧Contacto
