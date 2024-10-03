@@ -1,10 +1,11 @@
 
-# English Version
+##### English Version (Spanish below)
 
-# Hi! I'm Sandra Mingo 👋
+# Hi! I'm Sandra 👋
 ## 📚Education
-  - Student of the degree in Health Biology (University of Alcalá).
+  - MSc in Bioinformatics and Computational Biology (Autonomous University of Madrid)
   - Erasmus in Tübingen (Eberhard Karls Universität Tübingen)
+  - BSc in Health Biology (University of Alcalá).
 ## 💻Technical Skills
   - **Programming Languages:** Python, Bash, R
   - **Data Analysis Libraries:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
@@ -22,24 +23,26 @@
 ## 📝Skills
   - **Languages and Frameworks:** Python, Bash, R
   - **Data Science:** Data analysis, visualization, data manipulation.
-## 📧Contact.
+## 📧Contact
   - E-mail: sandra.mingo.ramirez1@gmail.com
+  - LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo)
 ### At this time...
-  - 🔭Studying: Health Biology
+  - 🔭Studying: Bioinformatics and Computational Biology
   - 🌱Learning: Data Science, Machine Learning
 
 Thank you for exploring my profile! I'm excited for future opportunities and the possibility of collaborating on interesting projects - feel free to contact me with any questions or collaborations! 😊
 
+<br>
+<br>
+<br>
+<br>
 
-
-
-# Versión en Español
-
-# ¡Hola! Soy Sandra Mingo 👋
+# ¡Hola! Soy Sandra 👋
 
 ## 📚Educación
-- Estudiante del grado en Biología Sanitaria (Universidad de Alcalá)
+- Máster en Bioinformática y Biología Computacional (Universidad Autónoma de Madrid)
 - Erasmus en Tübingen (Eberhard Karls Universität Tübingen)
+- Grado en Biología Sanitaria (Universidad de Alcalá)
 
 ## 💻Habilidades Técnicas
 - **Lenguajes de Programación:** Python, Bash, R
@@ -64,9 +67,10 @@ Thank you for exploring my profile! I'm excited for future opportunities and the
 
 ## 📧Contacto
 - E-mail: sandra.mingo.ramirez1@gmail.com
+- LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo)
 
 ### En este momento...
-- 🔭**Estudiando:** Biología Sanitaria
+- 🔭**Estudiando:** Bioinformática y Biología Computacional
 - 🌱**Aprendiendo:** Data Science, Machine Learning
 
 ¡Gracias por explorar mi perfil! Estoy emocionada por las oportunidades futuras y la posibilidad de colaborar en proyectos interesantes. ¡No dudes en contactarme para cualquier pregunta o colaboración! 😊
