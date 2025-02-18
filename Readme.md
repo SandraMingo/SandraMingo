@@ -25,7 +25,7 @@
   - **Data Science:** Data analysis, visualization, data manipulation.
 ## 📧Contact
   - E-mail: sandra.mingo.ramirez1@gmail.com
-  - LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo)
+  - LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo/)
 ### At this time...
   - 🔭Studying: Bioinformatics and Computational Biology
   - 🌱Learning: Data Science, Machine Learning
@@ -67,7 +67,7 @@ Thank you for exploring my profile! I'm excited for future opportunities and the
 
 ## 📧Contacto
 - E-mail: sandra.mingo.ramirez1@gmail.com
-- LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo)
+- LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo/)
 
 ### En este momento...
 - 🔭**Estudiando:** Bioinformática y Biología Computacional
