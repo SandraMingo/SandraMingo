@@ -7,7 +7,7 @@
   - Erasmus in Tübingen (Eberhard Karls Universität Tübingen)
   - BSc in Health Biology (University of Alcalá).
 ## 💻Technical Skills
-  - **Programming Languages:** Python, Bash, R
+  - **Programming Languages:** Python, Bash, R, SQL
   - **Data Analysis Libraries:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
 ## ✅Languages
   - Spanish: Native
@@ -21,10 +21,10 @@
     I developed skills in Python and its libraries for data analysis. I focused on academic projects related to biology and health. You can review my learning in this Github, they are small tests and exercises that I have been doing.
 
 ## 📝Skills
-  - **Languages and Frameworks:** Python, Bash, R
+  - **Languages and Frameworks:** Python, Bash, R, SQL
   - **Data Science:** Data analysis, visualization, data manipulation.
 ## 📧Contact
-  - E-mail: sandra.mingo.ramirez1@gmail.com
+  - E-mail: mingoramirezsandra@gmail.com
   - LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo/)
 ### At this time...
   - 🔭Studying: Bioinformatics and Computational Biology
@@ -45,7 +45,7 @@ Thank you for exploring my profile! I'm excited for future opportunities and the
 - Grado en Biología Sanitaria (Universidad de Alcalá)
 
 ## 💻Habilidades Técnicas
-- **Lenguajes de Programación:** Python, Bash, R
+- **Lenguajes de Programación:** Python, Bash, R, SQL
 - **Librerías para Análisis de Datos:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Statistics
 
 ## ✅Idiomas
@@ -62,11 +62,11 @@ Thank you for exploring my profile! I'm excited for future opportunities and the
   Podéis revisar mi aprendizaje en este Github, son pequeñas pruebas y ejercicios que he ido realizando.
 
 ## 📝Aptitudes
-- **Lenguajes y Frameworks:** Python, Bash, R
+- **Lenguajes y Frameworks:** Python, Bash, R, SQL
 - **Ciencia de Datos:** Análisis de datos, visualización, manipulación de datos
 
 ## 📧Contacto
-- E-mail: sandra.mingo.ramirez1@gmail.com
+- E-mail: mingoramirezsandra@gmail.com
 - LinkedIn: [Sandra Mingo Ramírez](www.linkedin.com/in/sandra-mingo/)
 
 ### En este momento...
